@@ -69,7 +69,7 @@ print(df.head())
 | athletics.email | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                                 |
 | advance.email   | available | $9.99     | $39.99        | 110            | 33     | 7      | name.com                                                  |
 | austrian.email  | resell    | —         | —             | 82             | 97     | 8      | Spaceship, Inc.                                           |
-| mark.email      | premium   | $1,000    | $1,000        | 66             | 42     | 4      | name.com                                                  |
+| mark.email      | premium   | $1,000    | $1,000        | 66             | 41     | 4      | name.com                                                  |
 | eleven.email    | available | $9.99     | $39.99        | 88             | 33     | 6      | name.com                                                  |
 | box.email       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc.                                           |
 | fitness.email   | premium   | $85.80    | $85.80        | 78             | 36     | 7      | namecheap                                                 |
@@ -83,7 +83,7 @@ print(df.head())
 | news.email      | resell    | —         | —             | 100            | 64     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | organic.email   | premium   | $123.75   | $123.75       | 93             | 33     | 7      | name.com                                                  |
 | cow.email       | available | $9.99     | —             | 74             | 26     | 3      | name.com                                                  |
-| free.email      | resell    | —         | —             | 88             | 59     | 4      | 1API GmbH                                                 |
+| the.email       | resell    | —         | —             | 98             | 58     | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
