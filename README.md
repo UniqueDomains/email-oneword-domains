@@ -1,22 +1,22 @@
-# Available .EMAIL One-Word Domains (6,761)
+# Available .EMAIL One-Word Domains (8,846)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C762%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C761%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C846%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .email one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .email one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,846 domains** on the canonical page below.
 
-**Public extract:** 6,762 rows · **Live catalog:** 6,761 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,846 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/email`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EMAIL one-word domain
 
 ### Files
 
-- `email.csv` — public CSV extract (6,762 rows)
-- `email.json` — public JSON extract (6,762 rows)
+- `email.csv` — public CSV extract (1,000 rows)
+- `email.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| stock.email     | available | $9.99     | —             | 68             | 40     | 5      | name.com                                                  |
-| crazy.email     | resell    | —         | —             | 86             | 98     | 5      | NameCheap, Inc.                                           |
-| athletics.email | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                                 |
-| advance.email   | available | $9.99     | $39.99        | 110            | 33     | 7      | name.com                                                  |
-| austrian.email  | resell    | —         | —             | 82             | 97     | 8      | Spaceship, Inc.                                           |
-| mark.email      | premium   | $1,000    | $1,000        | 66             | 41     | 4      | name.com                                                  |
-| eleven.email    | available | $9.99     | $39.99        | 88             | 33     | 6      | name.com                                                  |
-| box.email       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc.                                           |
-| fitness.email   | premium   | $85.80    | $85.80        | 78             | 36     | 7      | namecheap                                                 |
-| amber.email     | available | $9.99     | —             | 66             | 32     | 5      | name.com                                                  |
-| matt.email      | resell    | —         | —             | 72             | 71     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| menu.email      | premium   | $128.70   | $128.70       | 70             | 34     | 4      | namecheap                                                 |
-| chip.email      | available | $9.99     | $39.99        | 76             | 29     | 4      | name.com                                                  |
-| now.email       | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.                                           |
-| mix.email       | premium   | $123.75   | $123.75       | 66             | 34     | 3      | name.com                                                  |
-| device.email    | available | $9.99     | —             | 80             | 27     | 6      | name.com                                                  |
-| news.email      | resell    | —         | —             | 100            | 64     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| organic.email   | premium   | $123.75   | $123.75       | 93             | 33     | 7      | name.com                                                  |
-| cow.email       | available | $9.99     | —             | 74             | 26     | 3      | name.com                                                  |
-| the.email       | resell    | —         | —             | 98             | 58     | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| brands.email      | available | $9.99     | —             | 62             | 28     | 6      | name.com                                            |
+| robots.email      | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| loans.email       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo                                            |
+| backyard.email    | available | $9.99     | —             | 80             | 27     | 9      | name.com                                            |
+| score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                     |
+| boats.email       | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                            |
+| bees.email        | available | $9.99     | —             | 54             | 27     | 4      | name.com                                            |
+| Stars.email       | resell    | —         | —             | 79             | 31     | 5      | Sav.com, LLC - 47                                   |
+| hills.email       | premium   | $82.50    | —             | 65             | 20     | 5      | name.com                                            |
+| sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                            |
+| fat.email         | resell    | —         | —             | 68             | 26     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| rocks.email       | premium   | $250      | —             | 78             | 18     | 5      | name.com                                            |
+| distributed.email | available | $9.99     | —             | 64             | 21     | 11     | name.com                                            |
+| designs.email     | resell    | —         | —             | 72             | 21     | 7      | Sav.com, LLC - 19                                   |
+| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                            |
+| restaurants.email | available | $9.99     | —             | 57             | 21     | 11     | name.com                                            |
+| accounts.email    | resell    | —         | —             | 54             | 19     | 8      | Sav.com, LLC - 25                                   |
+| designers.email   | premium   | $854      | $854          | 72             | 15     | 9      | namesilo                                            |
+| geeks.email       | available | $9.99     | —             | 54             | 21     | 5      | name.com                                            |
+| records.email     | resell    | —         | —             | 58             | 18     | 7      | Sav.com, LLC - 32                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,762-row public sample | 6,761 live domains                               |
+| 1,000-row public sample | 8,846 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
