@@ -1,10 +1,10 @@
-# Available .EMAIL One-Word Domains (8,846)
+# Available .EMAIL One-Word Domains (9,395)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C846%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C395%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .email one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,846 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,395 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,846 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,395 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/email`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | loans.email       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo                                            |
 | backyard.email    | available | $9.99     | —             | 80             | 27     | 9      | name.com                                            |
 | score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                     |
-| boats.email       | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                            |
+| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                            |
 | bees.email        | available | $9.99     | —             | 54             | 27     | 4      | name.com                                            |
 | Stars.email       | resell    | —         | —             | 79             | 31     | 5      | Sav.com, LLC - 47                                   |
-| hills.email       | premium   | $82.50    | —             | 65             | 20     | 5      | name.com                                            |
+| accountants.email | premium   | $242      | $242          | 50             | 16     | 11     | namesilo                                            |
 | sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                            |
-| fat.email         | resell    | —         | —             | 68             | 26     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| rocks.email       | premium   | $250      | —             | 78             | 18     | 5      | name.com                                            |
-| distributed.email | available | $9.99     | —             | 64             | 21     | 11     | name.com                                            |
-| designs.email     | resell    | —         | —             | 72             | 21     | 7      | Sav.com, LLC - 19                                   |
-| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                            |
-| restaurants.email | available | $9.99     | —             | 57             | 21     | 11     | name.com                                            |
-| accounts.email    | resell    | —         | —             | 54             | 19     | 8      | Sav.com, LLC - 25                                   |
+| fat.email         | resell    | —         | —             | 68             | 27     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | designers.email   | premium   | $854      | $854          | 72             | 15     | 9      | namesilo                                            |
+| distributed.email | available | $9.99     | —             | 64             | 21     | 11     | name.com                                            |
+| coupons.email     | resell    | —         | —             | 52             | 24     | 7      | GoDaddy.com, LLC                                    |
+| plz.email         | premium   | $82.50    | —             | 72             | 14     | 3      | name.com                                            |
+| restaurants.email | available | $9.99     | —             | 57             | 21     | 11     | name.com                                            |
+| designs.email     | resell    | —         | —             | 72             | 21     | 7      | Sav.com, LLC - 19                                   |
+| lists.email       | premium   | $250      | —             | 60             | 14     | 5      | name.com                                            |
 | geeks.email       | available | $9.99     | —             | 54             | 21     | 5      | name.com                                            |
-| records.email     | resell    | —         | —             | 58             | 18     | 7      | Sav.com, LLC - 32                                   |
+| accounts.email    | resell    | —         | —             | 54             | 19     | 8      | Sav.com, LLC - 25                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,846 live domains                               |
+| 1,000-row public sample | 9,395 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
