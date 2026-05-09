@@ -970,6 +970,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d827389-e10d-4380-906a-965c92f803ad,treatof.email,available,9.99,,72,1,8,name.com,,
 5d8aa936-24c4-45a3-90c2-2d4204b4032f,pairofshades.email,available,9.99,,65,0,14,name.com,,
 5da7f946-f770-4560-9694-1156dcb1836c,hobbies.email,available,9.99,,60,11,7,name.com,,
+5dae8283-9e27-450e-8439-f30da6c33073,teeth.email,resell,,,62,14,5,"GoDaddy.com, LLC",06/05/2016 12:19,06/05/2027 12:19
 5dc71138-3004-4edb-8635-bfb24504dff5,asusual.email,available,9.99,,58,3,8,name.com,,
 5dca3e3a-39ee-4b10-ae2b-d575952a8255,procedures.email,available,9.99,,50,5,10,name.com,,
 5dcbeab6-a458-4dbd-8a2e-a1bfcc1c3c3c,swords.email,available,9.99,,52,10,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f5676de-bb0e-4246-8bc9-c82a02a33f6b,keepto.email,available,9.99,,72,2,7,name.com,,
 5f5a3a02-d6e7-4a41-bb21-a3ed81c90927,goinon.email,available,9.99,,74,2,8,name.com,,
 5f831921-71f3-4312-bb48-1839b525dfc9,inthedock.email,available,9.99,,50,1,11,name.com,,
-5fc5c2d5-7715-4062-bdf4-2aac9f785d7d,commonpractice.email,available,9.99,,66,4,15,name.com,,
