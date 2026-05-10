@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| ladies.email      | available | $9.99     | —             | 80             | 17     | 6      | name.com                                            |
-| barup.email       | available | $9.99     | —             | 82             | 2      | 6      | name.com                                            |
-| forces.email      | available | $9.99     | —             | 82             | 12     | 6      | name.com                                            |
-| gearup.email      | available | $9.99     | —             | 80             | 16     | 7      | name.com                                            |
-| hangon.email      | available | $9.99     | —             | 82             | 6      | 7      | name.com                                            |
-| pierogi.email     | available | $9.99     | —             | 82             | 7      | 7      | name.com                                            |
-| getlife.email     | available | $9.99     | —             | 80             | 5      | 8      | name.com                                            |
-| Snickers.email    | available | $40.98    | —             | 80             | 10     | 8      | namecheap                                           |
-| brands.email      | available | $9.99     | —             | 62             | 28     | 6      | name.com                                            |
-| robots.email      | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| loans.email       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo                                            |
-| backyard.email    | available | $9.99     | —             | 80             | 27     | 9      | name.com                                            |
-| score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                     |
-| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                            |
-| bees.email        | available | $9.99     | —             | 54             | 27     | 4      | name.com                                            |
-| Stars.email       | resell    | —         | —             | 79             | 31     | 5      | Sav.com, LLC - 47                                   |
-| accountants.email | premium   | $242      | $242          | 50             | 16     | 11     | namesilo                                            |
-| sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                            |
-| fat.email         | resell    | —         | —             | 68             | 27     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| designers.email   | premium   | $854      | $854          | 72             | 15     | 9      | namesilo                                            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ladies.email      | available | $9.99     | —             | 80             | 17     | 6      | name.com                                                  |
+| barup.email       | available | $9.99     | —             | 82             | 2      | 6      | name.com                                                  |
+| forces.email      | available | $9.99     | —             | 82             | 12     | 6      | name.com                                                  |
+| gearup.email      | available | $9.99     | —             | 80             | 16     | 7      | name.com                                                  |
+| hangon.email      | available | $9.99     | —             | 82             | 6      | 7      | name.com                                                  |
+| pierogi.email     | available | $9.99     | —             | 82             | 7      | 7      | name.com                                                  |
+| getlife.email     | available | $9.99     | —             | 80             | 5      | 8      | name.com                                                  |
+| Snickers.email    | available | $40.98    | —             | 80             | 10     | 8      | namecheap                                                 |
+| brands.email      | available | $9.99     | —             | 62             | 28     | 6      | name.com                                                  |
+| robots.email      | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| loans.email       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo                                                  |
+| backyard.email    | available | $9.99     | —             | 80             | 27     | 9      | name.com                                                  |
+| org.email         | resell    | —         | —             | 64             | 42     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                                  |
+| bees.email        | available | $9.99     | —             | 54             | 27     | 4      | name.com                                                  |
+| score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                           |
+| accountants.email | premium   | $242      | $242          | 50             | 16     | 11     | namesilo                                                  |
+| sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                                  |
+| Stars.email       | resell    | —         | —             | 79             | 31     | 5      | Sav.com, LLC - 47                                         |
+| designers.email   | premium   | $854      | $854          | 72             | 15     | 9      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
