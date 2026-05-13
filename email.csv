@@ -423,7 +423,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 273fb486-56d5-495b-b468-04c921a89d34,urges.email,available,9.99,,51,4,5,name.com,,
 276a760c-5e51-4739-88e2-60dc4c68ddad,Icouldeatabrick.email,available,40.98,,50,1,19,namecheap,,
 27957f50-2259-49b3-8b0f-f47652c3a78a,spas.email,available,9.99,,56,10,4,name.com,,
-27abad02-46a1-46cf-996c-a2b942ab39ee,accountability.email,available,9.99,,70,19,14,name.com,,
+27abad02-46a1-46cf-996c-a2b942ab39ee,accountability.email,available,9.99,,70,18,14,name.com,,
 27de6677-04b9-4d67-b674-480e6348e653,advantages.email,available,9.99,,64,5,10,name.com,,
 281327e4-f04c-4640-a5af-6f350eb47c8a,inwithashout.email,available,9.99,,60,1,15,name.com,,
 28150777-6b47-4446-bc12-cf316b87fd99,supposeto.email,available,9.99,,52,1,10,name.com,,
@@ -506,7 +506,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2f141235-87f8-4f2e-b7b6-b3a8e1868af2,objectives.email,available,9.99,,54,5,10,name.com,,
 2f22caa4-e4e9-4026-a83b-337d9ced593a,rivals.email,available,9.99,,48,20,6,name.com,,
 2f2db894-46dc-4999-90c6-b534a84b5cf4,revolutions.email,available,9.99,,52,9,11,name.com,,
-2f761b2c-3ac0-4cdc-9616-b8b9e6bc7632,Stars.email,resell,,,79,31,5,"Sav.com, LLC - 47",12/06/2024 17:00,12/06/2026 17:00
+2f761b2c-3ac0-4cdc-9616-b8b9e6bc7632,Stars.email,resell,,,79,32,5,"Sav.com, LLC - 47",12/06/2024 17:00,12/06/2026 17:00
 2fa18c84-4a9f-4161-89f0-176f9a300c88,savinggrace.email,available,9.99,,76,7,12,name.com,,
 2fa7645e-1863-4fa4-b394-83ce178b3e6f,makesomethingof.email,available,9.99,,70,0,17,name.com,,
 2fdae46d-4712-4a29-8457-f045453a3542,getrid.email,available,9.99,,56,3,7,name.com,,
@@ -532,6 +532,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 325e11d0-c1f2-4a83-9e0b-eba9d16c8922,runtheshow.email,available,9.99,,73,3,12,name.com,,
 3260b260-58ff-45a0-8973-fd1eb8431cff,cometobe.email,available,9.99,,72,0,10,name.com,,
 326c7328-16ca-4c20-b0d6-fd36264c738e,makefriendly.email,available,9.99,,72,1,13,name.com,,
+32735ded-b0e9-4da1-af25-987e8d238b3e,publication.email,available,9.99,,72,9,11,name.com,,
 327886be-3450-4569-9025-74299cfad3da,pictorials.email,available,9.99,,56,2,10,name.com,,
 32818111-8773-4073-a966-d9fc35a42114,organizing.email,available,9.99,,76,12,10,name.com,,
 328edf72-d96e-4cfb-b852-090dc4674a53,gowiththeturf.email,available,9.99,,66,0,16,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f4c8915-7cd4-4729-8db2-ef74d7211990,gonowherefast.email,available,9.99,,50,1,15,name.com,,
 5f53ae5c-558b-41d8-90a1-526ab8e02dc2,fellowships.email,available,9.99,,52,4,11,name.com,,
 5f5676de-bb0e-4246-8bc9-c82a02a33f6b,keepto.email,available,9.99,,72,2,7,name.com,,
-5f5a3a02-d6e7-4a41-bb21-a3ed81c90927,goinon.email,available,9.99,,74,2,8,name.com,,

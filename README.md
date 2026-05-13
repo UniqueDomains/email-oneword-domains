@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .email one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,414 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,414 domains · **Median ask:** $15.24 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,414 domains · **Median ask:** $15.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/email`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                           |
 | accountants.email | premium   | $242      | $242          | 50             | 16     | 11     | namesilo                                                  |
 | sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                                  |
-| Stars.email       | resell    | —         | —             | 79             | 31     | 5      | Sav.com, LLC - 47                                         |
+| Stars.email       | resell    | —         | —             | 79             | 32     | 5      | Sav.com, LLC - 47                                         |
 | designers.email   | premium   | $854      | $854          | 72             | 15     | 9      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
