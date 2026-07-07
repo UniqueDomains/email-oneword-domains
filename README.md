@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .email one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,415 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,415 domains · **Median ask:** $15.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,415 domains · **Median ask:** $17.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/email`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/email`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EMAIL one-word domain
 
 ### Files
 
-- `email.csv` — public CSV extract (1,000 rows)
-- `email.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `email.csv`, public CSV extract (1,000 rows)
+- `email.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ladies.email      | available | $9.99     | —             | 80             | 17     | 6      | name.com                                                  |
-| barup.email       | available | $9.99     | —             | 82             | 2      | 6      | name.com                                                  |
-| forces.email      | available | $9.99     | —             | 82             | 12     | 6      | name.com                                                  |
-| gearup.email      | available | $9.99     | —             | 80             | 16     | 7      | name.com                                                  |
-| hangon.email      | available | $9.99     | —             | 82             | 6      | 7      | name.com                                                  |
-| pierogi.email     | available | $9.99     | —             | 82             | 7      | 7      | name.com                                                  |
-| getlife.email     | available | $9.99     | —             | 80             | 5      | 8      | name.com                                                  |
-| Snickers.email    | available | $40.98    | —             | 80             | 10     | 8      | namecheap                                                 |
-| brands.email      | available | $9.99     | —             | 62             | 28     | 6      | name.com                                                  |
-| robots.email      | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| loans.email       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo                                                  |
-| backyard.email    | available | $9.99     | —             | 80             | 27     | 9      | name.com                                                  |
-| org.email         | resell    | —         | —             | 64             | 42     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| smiths.email      | premium   | $118.80   | $118.80       | 50             | 16     | 6      | namesilo                                                  |
-| bees.email        | available | $9.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| score.email       | resell    | —         | —             | 78             | 35     | 5      | Spaceship, Inc.                                           |
-| accountants.email | premium   | $242      | $242          | 50             | 16     | 11     | namesilo                                                  |
-| sites.email       | available | $9.99     | —             | 53             | 26     | 5      | name.com                                                  |
-| Stars.email       | resell    | —         | —             | 79             | 32     | 5      | Sav.com, LLC - 47                                         |
-| plz.email         | premium   | $82.50    | —             | 72             | 15     | 3      | name.com                                                  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| oar.email  | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
+| and.email  | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                     |
+| hat.email  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| aged.email | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                            |
+| buy.email  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 28                                   |
+| tks.email  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| bern.email | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| fan.email  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
+| bill.email | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
+| chip.email | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                            |
+| hot.email  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| bury.email | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                            |
+| days.email | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| liv.email  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| cali.email | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
+| gang.email | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| card.email | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
+| golf.email | premium   | $1,000    | —             | high           | medium | 4      | name.com                                            |
+| half.email | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| cool.email | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word domains in the .email extension. The set is broad, with examples ranging from category words like jewels.email and ladies.email to more distinctive terms like edamame.email and dogsit.email. With a median ask around $15, entry pricing looks accessible, but the extension itself should carry real relevance to email-based products, campaigns, inbox tools, newsletters, or messaging-focused brands. For founders, the key test is whether the word is easy to say, type, and trust with .email attached. For investors, the main question is whether the keyword and extension pair creates a clear use case rather than a novelty registration.
+This selection includes 9,415 one-word .email domain names drawn from everyday vocabulary, activities, and short phrases. With a median ask near $17, most of these domains are accessible for both quick brand tests and speculative holds. Because .email signals a clear use case—messaging, communication, or personal identity—buyers should weigh renewal costs, resale demand, and brandability before committing. Updated daily, this list reflects current asking prices across a wide range of one-word .email names.
 
-- Prioritize words that make immediate sense with .email
-- Short, clear dictionary words tend to be easier to remember
-- Use pricing discipline; median ask is about $15
-- Check for trademark overlap before treating a name as ownable
+- 9,415 one-word .email domains, median ask near $17
+- Everyday words and short phrases ready to register
+- Compare renewal costs before buying for resale or branding
+- Updated daily to reflect current one-word .email pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
