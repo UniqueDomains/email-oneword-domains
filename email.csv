@@ -55,7 +55,7 @@ b3aa0c07-abba-48fb-a907-2c2a84b52c97,handin.email,available,9.99,,medium,low,7,n
 1c16f1dc-5cbb-4cd4-a96c-5f45f49e22e7,wondrous.email,available,9.99,,high,low,8,name.com,,,
 a2f9ff29-6ca0-4e6a-a75b-4d16c3a50432,azygous.email,available,4.98,40.98,low,low,7,namecheap,,,08/08/2026 03:27
 7a673b67-4803-4d16-a6f1-ce93f7414302,graphics.email,premium,242,242,high,low,8,namesilo,,,
-65f1adbd-4a04-4c71-80cb-246f03dd16e8,exercise.email,available,4.98,40.98,medium,low,8,namecheap,,,14/09/2026 10:49
+65f1adbd-4a04-4c71-80cb-246f03dd16e8,exercise.email,available,7.49,30.99,medium,low,8,namesilo,,,19/09/2026 09:45
 bf3c8cc2-0bb1-452c-90e1-39dbcb705256,ambiguous.email,available,4.98,40.98,low,low,9,namecheap,,,
 3c19c51e-7200-441b-99c9-5ee1bec77b96,waken.email,available,4.98,40.98,medium,low,5,namecheap,,,08/08/2026 00:08
 28b1bddf-8ad6-4c45-9fb3-16fbad48c38e,potatochip.email,available,9.99,,high,low,11,name.com,,,
@@ -155,7 +155,7 @@ a3b89a24-b3f8-4987-94e1-ec28529bde74,twatabout.email,available,9.99,,low,low,10,
 8bb3a2d7-e27f-46f7-99df-54d50b7fcf7a,germicidal.email,available,4.98,40.98,low,low,10,namecheap,,,08/08/2026 07:07
 0b6dd0af-aba6-423a-acaa-1a22a8a6dd56,moneyeconomy.email,available,9.99,,high,low,13,name.com,,,
 fa054c6f-ebde-46d7-8d90-d6e88fd6b99d,coffeetalk.email,available,9.99,,high,low,11,name.com,,,
-0b006461-7c20-43b2-8df9-7ceba0761c14,goDutch.email,available,9.99,,medium,low,8,name.com,,,
+0b006461-7c20-43b2-8df9-7ceba0761c14,godutch.email,available,9.99,,medium,low,8,name.com,,,
 25fe7011-6a67-4789-a80b-11bfc83b56d0,finalsay.email,available,9.99,,high,low,9,name.com,,,
 adcb6c4f-24ef-4f92-b2f4-ccd4cf7e182d,otic.email,available,4.98,40.98,low,low,4,namecheap,,,07/08/2026 17:41
 acb4c86d-47a6-4ca5-b2fa-af8654d8401a,asteriated.email,available,4.98,40.98,low,low,10,namecheap,,,07/08/2026 08:42
@@ -168,20 +168,19 @@ f99ba072-d296-4522-942a-f633e357655e,commodity.email,available,9.99,,high,low,9,
 db8be0f0-1dac-4352-ad22-a3ed2246c425,quizbowl.email,available,9.99,,low,low,9,name.com,,,
 f279a8b4-072d-48a0-883f-8457f106ceaf,silverspoon.email,available,9.99,,medium,low,12,name.com,,,
 c312304c-08d1-4eee-b5a2-796598803ead,letterperfect.email,available,9.99,,high,low,14,name.com,,,
-1f266e15-9d69-4ed4-923f-eac94ce8729b,BlackTuesday.email,available,9.99,,medium,low,13,name.com,,,
+1f266e15-9d69-4ed4-923f-eac94ce8729b,blacktuesday.email,available,9.99,,medium,low,13,name.com,,,
 618c4dff-fbae-4405-98a9-d096d99b2265,anamorphic.email,available,4.98,40.98,low,low,10,namecheap,,,
 4c0a4876-458d-4de2-9778-2894f94d1f65,debase.email,available,4.98,40.98,low,low,6,namecheap,,,
 c70be726-4f89-4c3a-ae5a-190e885e73e2,rocket.email,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",30/10/2019 08:31,30/10/2026 08:31,
 dbfb9e4a-8851-414e-bd8d-640075107aaa,lavaliermicrophone.email,available,9.99,,high,low,19,name.com,,,
 500c94f0-520a-4e38-8f73-16fa8c1eb5e2,peeled.email,available,4.98,40.98,low,low,6,namecheap,,,08/08/2026 18:24
-7ad43b02-b036-4b08-b36b-bd414a7e3fbe,even.email,available,,,high,low,4,,,,
 ad2344b9-3b84-4fc9-89ac-b53a9e16dd1f,throwoff.email,available,9.99,,medium,low,9,name.com,,,
 e264c29f-77c3-43dd-9af7-ac2e05316638,amoeboid.email,available,4.98,40.98,low,low,8,namecheap,,,
 6b6b65b2-20fd-4f51-888e-4676519bbeba,rheumatic.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 23:05
 d955df56-9d30-4696-a70b-63f8df0dab89,powerstrip.email,available,9.99,,high,low,11,name.com,,,
 3502f4de-6c45-4bdd-ae80-6a5a895ec920,destined.email,available,9.99,39.99,high,low,8,name.com,,,
 688d2d0d-c96f-4eea-9551-ae7c0eb39e88,carcoat.email,available,9.99,,high,low,8,name.com,,,
-568d7d90-9acc-4734-8ee6-dd5146d10537,commercial.email,resell,,,high,low,10,"Sav.com, LLC - 20",12/06/2025 15:15,12/06/2026 15:15,
+568d7d90-9acc-4734-8ee6-dd5146d10537,commercial.email,available,7.49,30.99,medium,low,10,namesilo,,,19/09/2026 10:28
 a85c795e-2417-4638-b0a8-320cdb1dd218,absorbing.email,available,9.99,39.99,high,low,9,name.com,,,
 137c2b7e-86b7-4c3e-b929-bbea0dc0d897,badness.email,available,4.98,40.98,low,low,7,namecheap,,,08/08/2026 07:23
 eb6ae7ae-6359-4937-b5e9-c3d78c1311ab,preceding.email,available,9.99,,low,low,9,name.com,,,
@@ -204,7 +203,6 @@ dda4d49b-1515-4a08-b0b3-515fbef0876b,trousers.email,available,9.99,,medium,low,8
 144e4948-9b14-4e22-a679-624ce64df38d,thanksabunch.email,available,9.99,,low,low,14,name.com,,,
 a3145c9e-32ae-45c4-964c-f0e028d871fa,takebystorm.email,available,9.99,,low,low,13,name.com,,,
 8b48a64a-9a66-4223-80d6-8b741294c433,howlong.email,available,9.99,,medium,low,8,name.com,,,
-dadabf23-bb68-4d7f-b4ce-6de710e7ed19,YouTube.email,available,,,high,medium,7,,,,
 27f425bb-5b87-445a-9bef-a9e29b974e07,fullgrown.email,available,4.98,40.98,low,low,10,namecheap,,,
 f3adee48-1b29-4a2c-9c63-f464622cbb4f,loving.email,available,,,high,low,6,,,,
 b7616b52-933a-4d04-aaa4-f53c10201a61,amharic.email,available,4.98,40.98,low,low,7,namecheap,,,
@@ -233,13 +231,13 @@ e70b73e0-0b01-487d-8d21-3d8a5ef0004c,manmade.email,available,9.99,,medium,low,8,
 ba2635ea-ce37-4875-bb89-3335c7fdcb3c,hairfollicle.email,available,9.99,,high,low,13,name.com,,,
 87eeb14e-4e44-4bf2-b5d6-f4caaea379d1,computerchip.email,available,4.98,40.98,low,low,13,namecheap,,,08/09/2026 06:52
 993b828f-5636-454b-95f5-a9f86d115adf,lightbulb.email,available,9.99,,high,low,10,name.com,,,
-f376d54b-8621-4ede-97bb-3b4085868cdd,NorthKorea.email,available,9.99,,low,low,11,name.com,,,
+f376d54b-8621-4ede-97bb-3b4085868cdd,northkorea.email,available,9.99,,low,low,11,name.com,,,
 4a703447-bb7b-40c8-8e5a-6fef44f9d0b2,birthday.email,premium,854,854,high,low,8,namesilo,,,
 d48bc4bc-d6d7-4b93-9bfb-577c97f32494,adoptive.email,available,4.98,40.98,low,low,8,namecheap,,,
 9eee5b91-5362-4b84-88ea-81381aa0bfd7,asfaras.email,available,9.99,,medium,low,9,name.com,,,
 3c853d36-44db-4bac-a913-59868b2881ba,artful.email,available,4.98,40.98,low,low,6,namecheap,,,06/08/2026 22:44
 4710c231-37cc-4778-9f0b-2ba87ada4f84,takeastand.email,available,9.99,,low,low,12,name.com,,,
-c2243a0e-1318-4266-ae2b-273439cd32e5,SouthCarolina.email,resell,,,low,low,14,Porkbun LLC,10/12/2021 20:16,10/12/2026 20:16,
+c2243a0e-1318-4266-ae2b-273439cd32e5,southcarolina.email,resell,,,low,low,14,Porkbun LLC,10/12/2021 20:16,10/12/2026 20:16,
 3ef3c899-7a4d-4c2b-90ec-41385ff34e1f,makemusic.email,available,9.99,,high,low,10,name.com,,,
 940da4b9-a03a-4ec0-8a5f-f0e166c1b4fe,throwout.email,available,9.99,,medium,low,9,name.com,,,
 36d1af62-ce4b-4337-9d41-f9940879c60b,shakehands.email,available,9.99,,medium,low,11,name.com,,,
@@ -271,21 +269,21 @@ ed4ce9fa-986a-46db-a2ff-6f289abc0bcc,keepon.email,available,9.99,,high,low,7,nam
 8edae566-83e7-4655-ba16-4e432b3a681e,booted.email,available,9.99,,medium,low,6,name.com,,,
 345ce9a5-14d5-480c-9cd0-67b059c1ebd9,educated.email,available,9.99,39.99,medium,low,8,name.com,,,
 5713eb04-a87f-4788-a1bf-025d805fcb20,nonplused.email,available,4.98,40.98,low,low,9,namecheap,,,07/08/2026 10:43
-2002a7ad-b1ff-494a-a7ed-240703777f5c,MacBook.email,available,,,high,low,7,,,,
+2002a7ad-b1ff-494a-a7ed-240703777f5c,macbook.email,available,,,high,low,7,,,,
 202a0522-b809-45ae-ad04-5ca9098b4f0d,addible.email,available,4.98,40.98,low,low,7,namecheap,,,
 7002245d-c9b7-4c66-98e9-30c41244acd1,environmentally.email,available,9.99,,medium,low,15,name.com,,,
 3f59bd90-5365-400a-b9d8-fd2e4e6abbb5,pricing.email,available,9.99,,high,low,7,name.com,,,
 6d6b4f97-78c4-42c2-91bf-9771eb3860d0,lxvi.email,available,4.98,40.98,low,low,4,namecheap,,,
 72e48179-6d4e-4883-9f7f-0cb19bd332b5,bright.email,resell,,,high,low,6,"DNSPod, Inc.",21/11/2023 13:04,21/11/2026 13:04,
 a393d278-fe45-458e-a214-ddbc5c6922a0,despondent.email,available,9.99,39.99,medium,low,10,name.com,,,
-af7003ec-d506-4d06-9304-0105c86f3526,terminated.email,available,4.98,40.98,low,low,10,namecheap,,,13/09/2026 03:53
+af7003ec-d506-4d06-9304-0105c86f3526,terminated.email,available,7.49,30.99,low,low,10,namesilo,,,19/09/2026 16:25
 e69fbc58-c57d-4dfd-94f9-0a160e445d3a,assertive.email,available,4.98,40.98,low,low,9,namecheap,,,07/08/2026 05:59
 ff084b08-c8c0-4f8f-9ca5-3d4cae074ee0,everything.email,resell,,,medium,medium,10,"Sav.com, LLC - 34",18/04/2026 15:15,18/04/2027 15:15,
 d083cdd3-5a38-4bf9-aae9-d9ad9da2fa35,bowout.email,available,9.99,,high,low,7,name.com,,,
 ead75c83-dd9f-4fc0-bcff-01e51a6539d3,backswept.email,available,4.98,40.98,low,low,9,namecheap,,,08/08/2026 06:37
 6222e477-6068-4ada-9362-6f8a434a4f46,aquiline.email,available,4.98,40.98,low,low,8,namecheap,,,06/08/2026 11:01
 f5beb78d-9a2e-4992-94e9-23f20166549f,private.email,resell,,,high,low,7,"NameCheap, Inc.",22/07/2025 17:56,22/07/2027 17:56,
-18b6bc91-6c98-4bbb-af3d-19ba2085a906,MasterofScience.email,available,9.99,,medium,low,17,name.com,,,
+18b6bc91-6c98-4bbb-af3d-19ba2085a906,masterofscience.email,available,9.99,,medium,low,17,name.com,,,
 f878fcdc-3b65-41ed-ab16-959422ba8547,attheready.email,available,9.99,,high,low,12,name.com,,,
 ef78b961-ff78-4f2c-bac2-6f47d9bdeac8,bated.email,available,4.98,40.98,low,low,5,namecheap,,,09/08/2026 00:22
 180a56ac-c5f7-49fc-92af-0cd479a79eba,congregation.email,available,9.99,,high,low,12,name.com,,,
@@ -303,6 +301,7 @@ dc5a2fd4-cd84-43fa-a03d-8dc546f823f5,despiteof.email,available,9.99,,medium,low,
 c69adc79-d948-4c2d-8215-037f8113bc8a,hellish.email,available,4.98,40.98,low,low,7,namecheap,,,09/08/2026 04:59
 dbea16c6-89b4-4e67-aaf9-804a2a31e609,airtoair.email,available,4.98,40.98,low,low,10,namecheap,,,
 7cf93023-a8e9-4edd-a2a4-5b4d706ca1ac,gingerbreadman.email,available,9.99,,high,low,15,name.com,,,
+86e8d2a8-276c-452f-b2f0-1014c5355a36,hot.email,resell,,,medium,low,3,"Spaceship, Inc.",23/09/2018 08:32,23/09/2027 08:32,19/09/2026 15:25
 53829213-b3e2-43d2-803d-30dc0aedea4c,amatory.email,available,4.98,40.98,low,low,7,namecheap,,,
 9c600fb6-638c-41d8-bd07-2e6ad5c56289,allovertheboard.email,available,9.99,,medium,low,18,name.com,,,
 4212bbb2-7394-48c1-a942-f1f6acae481e,atthelast.email,available,9.99,,medium,low,11,name.com,,,
@@ -328,14 +327,14 @@ c146c78d-ace0-487d-947d-43e3da6f5fbb,fourteenth.email,available,4.98,40.98,low,l
 9607374d-893e-42be-b27b-ce61af4c56de,occurring.email,available,9.99,,high,low,9,name.com,,,
 3d6390e6-34e3-4d9f-8b20-2d1f4f4bb68c,oncemore.email,available,4.98,40.98,low,low,9,namecheap,,,13/09/2026 18:09
 f1f0204a-6cb5-4542-b46d-8517d00e731d,antiviral.email,available,4.98,40.98,low,low,9,namecheap,,,05/08/2026 20:06
-ceea2af8-0cc2-4929-a822-8afec0dc28f2,branded.email,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",27/07/2023 15:15,27/07/2026 15:15,
+ceea2af8-0cc2-4929-a822-8afec0dc28f2,branded.email,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",27/07/2023 15:15,27/07/2027 15:15,20/09/2026 01:40
 4b01b5bb-97c1-4a37-9154-440518f2af8e,yourhead.email,available,9.99,,low,low,9,name.com,,,
 b13748f7-a776-406b-9935-dd78555fae7a,parkingticket.email,available,9.99,,medium,low,14,name.com,,,
 2159cc8c-c0c1-4cd8-b7e4-a15fd40a0245,inspire.email,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2022 15:15,01/12/2026 15:15,
 520f1766-0e53-400d-a421-c428373077db,adjectival.email,available,4.98,40.98,low,low,10,namecheap,,,
 65bfadc9-15e3-4730-83dc-823745316250,nightmare.email,available,9.99,,high,low,9,name.com,,,
 e149e5f0-3aa5-45f9-b4fe-58f0633a0cab,protect.email,resell,,,high,low,7,"DNSPod, Inc.",05/04/2024 15:15,05/04/2027 15:15,
-9bb01b39-84cb-4917-b8ca-e65e0786c0e3,trade.email,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",10/11/2025 15:16,10/11/2026 15:16,
+9bb01b39-84cb-4917-b8ca-e65e0786c0e3,trade.email,resell,,,medium,low,5,"DNSPod, Inc.",10/11/2025 15:16,10/11/2027 15:16,19/09/2026 03:40
 bd622e46-6f14-4911-a83c-c3656daa541a,filming.email,available,9.99,,high,low,7,name.com,,,
 303aa877-36f8-495b-a59c-a5afd848c9ab,eachother.email,available,9.99,,medium,low,10,name.com,,,
 25913bab-e074-4a85-9a6b-1e9eb030b35d,inthelightof.email,available,9.99,,medium,low,15,name.com,,,
@@ -356,14 +355,14 @@ c9dad3c3-5e98-4f17-9562-76813d9c3b5d,underestimate.email,available,9.99,,high,lo
 d904047e-284b-429d-92df-793d340673c2,apetalous.email,available,4.98,40.98,low,low,9,namecheap,,,05/08/2026 22:35
 061c385f-22fa-4dc4-b444-0f72d9f2c70e,developing.email,available,9.99,39.99,high,low,10,name.com,,,
 a71434ae-7ad5-43a6-af8e-ab176eacf7a4,wouldithurt.email,available,9.99,,low,low,13,name.com,,,
-639f969a-3915-494b-99c7-2b83ea8d4e06,midSeptember.email,available,9.99,,high,low,13,name.com,,,
+639f969a-3915-494b-99c7-2b83ea8d4e06,midseptember.email,available,9.99,,high,low,13,name.com,,,
 8e946112-a8a3-42b5-84b6-dfc6c28be30a,weather.email,premium,118.8,118.8,high,medium,7,namesilo,,,
 df9f0763-3b45-4830-8926-d0d5f1108a46,capitalise.email,available,9.99,,high,low,10,name.com,,,
 d4a2b612-c0f5-4efd-ad57-2acf6d02d94f,potentiality.email,available,9.99,,low,low,12,name.com,,,
 5a298185-7355-4e13-9608-dd93628d3850,rearward.email,available,4.98,40.98,low,low,8,namecheap,,,08/08/2026 06:51
 657680e4-6627-4163-aa87-13e3c03c702a,greatgranddaughter.email,available,9.99,,high,low,19,name.com,,,
 8cd16675-91ec-46ec-a23c-6e6724a82c28,adaptable.email,available,9.99,39.99,high,low,9,name.com,,,
-1eeb061e-5403-4674-b053-f9ebfb101197,Oxfam.email,available,9.99,,high,low,5,name.com,,,
+1eeb061e-5403-4674-b053-f9ebfb101197,oxfam.email,available,9.99,,high,low,5,name.com,,,
 f453d2c4-6133-4c39-847a-1865a2a8d471,giveback.email,available,9.99,,high,low,9,name.com,,,
 32bc0efb-919d-42f9-a33a-f402e415c83b,allopatric.email,available,4.98,40.98,low,low,10,namecheap,,,
 5134453a-852e-4554-bdfb-ed1ec7e25136,achenial.email,available,4.98,40.98,low,low,8,namecheap,,,
@@ -411,7 +410,7 @@ c683cf48-766f-4bbd-a768-9eed3851b966,posting.email,available,,,high,low,7,,,,
 f4a9d409-aaae-4597-b381-3db617a5dfa5,vampire.email,available,9.99,,medium,low,7,name.com,,,
 6299e1f3-aa91-481e-9cec-826387419ffa,informal.email,available,9.99,,high,low,8,name.com,,,
 9dc4a8ac-3750-4a7b-a7dc-84cec547c7bc,unwell.email,available,4.98,40.98,low,low,6,namecheap,,,
-2f950490-5659-4cc7-ae99-e3a51350b4d2,Godlovesomeone.email,available,9.99,,medium,low,16,name.com,,,
+2f950490-5659-4cc7-ae99-e3a51350b4d2,godlovesomeone.email,available,9.99,,medium,low,16,name.com,,,
 39fc5a87-a473-4b86-aa0f-175ef5cac4a4,sexwork.email,available,9.99,,low,low,8,name.com,,,
 b1682d5d-5749-4335-8e33-073489c64e96,selfconfident.email,available,9.99,,medium,low,14,name.com,,,
 46d2d070-30b5-4e8a-aff5-eecfac849f6a,militant.email,available,4.98,40.98,low,low,8,namecheap,,,
@@ -421,13 +420,12 @@ b1682d5d-5749-4335-8e33-073489c64e96,selfconfident.email,available,9.99,,medium,
 8287f5ab-0d86-4b19-90cd-add2409532cb,virulent.email,available,4.98,40.98,low,low,8,namecheap,,,
 ce167e2f-2a10-47cc-9d93-5f8951b7a4a5,bacillar.email,available,4.98,40.98,low,low,8,namecheap,,,08/08/2026 04:51
 e77bc42b-9ec1-4206-87a8-4a7d892a75e2,asserted.email,available,4.98,40.98,low,low,8,namecheap,,,07/08/2026 05:54
-f74ccb92-c59e-4219-8d10-0ea3d8c924c5,bill.email,premium,78.54,78.54,high,low,4,namesilo,,,
 c5b3ebdc-dd60-40de-be89-eca25e24e2ad,devoted.email,available,9.99,39.99,high,low,7,name.com,,,
 759b421b-46dc-4b6c-bb01-69f26ab037d2,stopped.email,available,9.99,,medium,low,7,name.com,,,
 5cf00c01-cbf5-4a3f-9c3f-c10970f3d8b9,lifeprotip.email,available,9.99,,high,low,12,name.com,,,
 28e2d8ef-a886-4751-8334-84efde2f9923,mothahfuckah.email,available,9.99,,medium,low,12,name.com,,,
 e9adc28c-000e-4417-b84c-9994f3ab1ea3,arum.email,available,4.98,40.98,low,low,4,namecheap,,,06/08/2026 20:20
-edf3e420-765d-4cfe-b0dd-132c5e7fd54a,GoodFriday.email,available,9.99,,medium,low,11,name.com,,,
+edf3e420-765d-4cfe-b0dd-132c5e7fd54a,goodfriday.email,available,9.99,,medium,low,11,name.com,,,
 7b54b5bc-d9f1-42e1-91dc-4ba1caddbfe1,apodictic.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 01:27
 dbf23315-71a3-4727-a062-6c10f4121e80,nettlesome.email,available,4.98,40.98,low,low,10,namecheap,,,
 068cdbec-0034-4d05-8e0b-feb2b97176d7,howdoyoulikethat.email,available,9.99,,medium,low,20,name.com,,,
@@ -441,7 +439,7 @@ b361f19c-34b1-469c-a902-2404c0297a57,accoutered.email,available,4.98,40.98,low,l
 8b940e57-13f0-43f9-a2f5-36c46183c11a,putonthemap.email,available,9.99,,low,low,14,name.com,,,
 34a32782-71f0-4259-a074-826c470ae005,pontifical.email,available,4.98,40.98,low,low,10,namecheap,,,06/08/2026 04:15
 ff9267f4-12da-4c76-8f92-131b134ad28e,phantasmal.email,available,4.98,40.98,low,low,10,namecheap,,,06/08/2026 05:33
-f0d3943f-208c-425e-9dfb-e4d3ae332402,Iknowit.email,available,9.99,,medium,low,9,name.com,,,
+f0d3943f-208c-425e-9dfb-e4d3ae332402,iknowit.email,available,9.99,,medium,low,9,name.com,,,
 c6d89a49-bfe4-44fc-a8d4-e507238574a0,afrikaner.email,available,4.98,40.98,low,low,9,namecheap,,,
 f3a05547-44b7-4b26-b3bc-a31d2ee338ee,silverring.email,available,9.99,,low,low,11,name.com,,,
 574d5e8a-d15a-4a8b-8550-c1a2a1706c10,scarred.email,available,9.99,,medium,low,7,name.com,,,
@@ -451,7 +449,6 @@ ca924e30-abe7-4ecf-a702-1e800fc71400,childsexualabuse.email,available,9.99,,medi
 810da5f0-7653-4c02-8053-020c76a7dca6,annulated.email,available,4.98,40.98,low,low,9,namecheap,,,
 e550f2d9-3398-40cb-82ab-37e2ff589067,capitalize.email,available,9.99,,high,low,10,name.com,,,
 43a59822-a4fb-4001-8c51-45f1c75d96e7,fiftieth.email,available,4.98,40.98,low,low,8,namecheap,,,
-0e77dacf-62e2-48e3-b7f0-ee3975e7dcb4,medical.email,resell,,,high,low,7,Dynadot Inc,21/09/2016 06:54,21/09/2026 06:54,
 2e73cd51-3df1-4fdb-9a88-1b04c2a75fd8,namedafter.email,available,9.99,,low,low,11,name.com,,,
 13b65cc2-baad-4a1d-9b84-b4d3cea53e9b,articulate.email,available,9.99,,high,low,10,name.com,,,
 672bd78c-afd1-4e3f-9788-de4d020dbdf3,somewhat.email,available,9.99,,high,low,8,name.com,,,
@@ -497,16 +494,16 @@ e92a699e-1f47-4b0d-b04c-5ed2648e21bb,master.email,resell,,,high,low,6,"DNSPod, I
 f2ee80f4-547a-473d-8a91-d1aaeb909f95,clothes.email,available,9.99,,high,low,7,name.com,,,
 450362f9-9624-4574-a38f-915097d4b27d,priceless.email,available,,,high,low,9,,,,
 42aee0b9-5993-4e1a-9a63-317e1598b8dd,gracious.email,available,9.99,39.99,high,low,8,name.com,,,
-b7826f3a-f45a-4cf2-a6ff-01f6883856ea,random.email,resell,,,medium,medium,6,Dynadot Inc,14/11/2016 14:20,14/11/2026 14:20,13/09/2026 03:09
-ced569dc-4489-4208-b604-4290d010a945,Ithinkso.email,available,9.99,,medium,low,10,name.com,,,
+b7826f3a-f45a-4cf2-a6ff-01f6883856ea,random.email,resell,,,low,low,6,Dynadot Inc,14/11/2016 14:20,14/11/2026 14:20,19/09/2026 11:18
+ced569dc-4489-4208-b604-4290d010a945,ithinkso.email,available,9.99,,medium,low,10,name.com,,,
 4799c528-a796-4239-9ff8-a8e12e796a96,arouse.email,available,4.98,40.98,medium,low,6,namecheap,,,07/08/2026 23:59
 1f2fbeb3-9fc8-45db-8628-047e3d86d1e7,feminine.email,available,9.99,,high,low,8,name.com,,,
 7d1bb971-f020-4b6e-aa5c-7eb3f202f029,particular.email,available,9.99,,high,low,10,name.com,,,
 a0c370b6-aa2c-4f28-b0ae-7b06acf052ec,facet.email,available,9.99,,high,low,5,name.com,,,
-1eda43ce-a6cd-46f6-a508-aec91dada95a,BBC.email,available,,,high,low,3,,,,
+1eda43ce-a6cd-46f6-a508-aec91dada95a,bbc.email,available,,,high,low,3,,,,
 8dd21a39-55d7-4f56-898e-970d1caf4de0,shoes.email,premium,128.7,128.7,high,low,5,namecheap,,,
 a3c9da83-afc5-4215-b3c5-945326346a20,anymore.email,available,9.99,,medium,low,7,name.com,,,
-57bc3b29-675b-432a-b927-eedf1ba334f4,library.email,resell,,,medium,low,7,AccentDomains LLC,08/01/2026 15:15,08/01/2027 15:15,08/09/2026 13:30
+57bc3b29-675b-432a-b927-eedf1ba334f4,library.email,resell,,,medium,low,7,AccentDomains LLC,08/01/2026 15:15,08/01/2027 15:15,19/09/2026 14:39
 1172c063-4c7a-4c29-a829-a2ce923a636d,hype.email,resell,,,high,medium,4,"DNSPod, Inc.",01/07/2025 15:15,01/07/2027 15:15,17/09/2026 08:22
 89ecd08d-33eb-4716-a322-29dcdfd5808c,staminate.email,available,4.98,40.98,low,low,9,namecheap,,,
 8fc1c6c0-b6e9-41cc-a64c-23e5742defb2,grubby.email,available,4.98,40.98,low,low,6,namecheap,,,09/08/2026 09:31
@@ -530,7 +527,7 @@ b4193f92-d147-42eb-8374-a3d824858839,suitable.email,available,9.99,,medium,low,8
 24a3be54-cb1c-4230-98cd-2171f4bd5b9c,liii.email,available,4.98,40.98,low,low,4,namecheap,,,
 c97a8870-ce50-4735-8411-3c445de97ba4,breakinto.email,available,9.99,,medium,low,10,name.com,,,
 0f4b89e4-ed73-4de7-be3b-ba5284608ce8,oddnumbered.email,available,9.99,,low,low,12,name.com,,,
-5e0fb52e-bb79-40c7-a73b-5078260edb0b,Christmascard.email,available,9.99,,high,low,14,name.com,,,
+5e0fb52e-bb79-40c7-a73b-5078260edb0b,christmascard.email,available,9.99,,high,low,14,name.com,,,
 6055353f-0579-40a2-8fba-e2c3b7f067b8,statement.email,available,9.99,,high,low,9,name.com,,,
 01948e01-7fb9-4c3e-8c76-94ca7dc58c3f,dogshot.email,available,9.99,,high,low,8,name.com,,,
 534aa7d5-e418-4d8a-982a-e4c0681390ec,glassceiling.email,available,9.99,,medium,low,13,name.com,,,
@@ -549,13 +546,13 @@ b1faa3c3-02fa-4c4b-aa64-aabf5eb24e16,amateurish.email,available,4.98,40.98,low,l
 f0ff8a94-0585-4b10-8cb7-a834f2a90861,croptop.email,available,9.99,,high,low,8,name.com,,,
 a74ca195-dd0e-44ff-a8e0-99a45dae5b22,easter.email,premium,9.99,,high,low,6,name.com,,,
 6e5c37c8-2799-46d2-9006-58ea0c774784,soppy.email,available,4.98,40.98,low,low,5,namecheap,,,09/08/2026 01:14
-b73433d5-bde8-425e-b7cd-d6fea1af2a07,StCharles.email,available,9.99,,medium,low,11,name.com,,,
-f948bf1e-798d-4718-98cc-fb6de70271cd,buy.email,resell,,,medium,medium,3,"Sav.com, LLC - 28",07/12/2023 15:15,07/12/2026 15:15,14/09/2026 02:18
+b73433d5-bde8-425e-b7cd-d6fea1af2a07,stcharles.email,available,9.99,,medium,low,11,name.com,,,
+f948bf1e-798d-4718-98cc-fb6de70271cd,buy.email,resell,,,medium,low,3,"Sav.com, LLC - 28",07/12/2023 15:15,07/12/2026 15:15,19/09/2026 08:52
 ad049e73-cb94-4238-95de-832c9d7b4b39,kookie.email,available,4.98,40.98,low,low,6,namecheap,,,06/08/2026 21:09
 9ef58eb4-1d29-4f0c-8348-874762a30878,hitup.email,available,9.99,,high,low,6,name.com,,,
 1de029b3-e9bd-425e-94ac-054549f3a348,billgates.email,available,9.99,,high,low,10,name.com,,,
 446a3ea3-aa70-4f36-9325-340f3d00d4c7,standfor.email,available,9.99,,medium,low,9,name.com,,,
-8b88e292-b2db-49bb-acf5-b3dc6904414f,schoolbook.email,available,4.98,40.98,low,low,11,namecheap,,,14/09/2026 19:18
+8b88e292-b2db-49bb-acf5-b3dc6904414f,schoolbook.email,available,7.49,30.99,low,low,11,namesilo,,,19/09/2026 07:03
 bb1d2c7b-733f-474b-b6e5-bb940541ceea,thehardway.email,available,9.99,,low,low,12,name.com,,,
 b07deb74-90ec-48d3-8c71-feb4d10a5c57,aquatic.email,available,4.98,40.98,low,low,7,namecheap,,,06/08/2026 10:45
 eb41f155-fcce-467f-8fbb-2303a010f2ae,astringent.email,available,4.98,40.98,low,low,10,namecheap,,,
@@ -605,8 +602,8 @@ fe8b5b51-4b5f-478b-9fcb-67ae25fa5c11,faded.email,available,9.99,,medium,low,5,na
 aaccb6fd-161c-47dc-82d7-8ce598f7e444,baghdad.email,premium,118.8,118.8,medium,low,7,namesilo,,,
 cb17bb1c-caa1-4be9-a0f1-6dafc92945fd,affecting.email,available,4.98,40.98,low,low,9,namecheap,,,
 8f7ae8ef-5798-4129-9aa4-6d12ced1cd50,classicalguitar.email,available,9.99,,high,low,16,name.com,,,
-1611b660-c759-4ece-9efc-d6701fddbf90,Walmart.email,available,,,high,medium,7,,,,
-6c2b31b6-b128-4d9e-8044-1a56ebb24cc6,Frenchpie.email,available,9.99,,medium,low,10,name.com,,,
+1611b660-c759-4ece-9efc-d6701fddbf90,walmart.email,available,,,high,medium,7,,,,
+6c2b31b6-b128-4d9e-8044-1a56ebb24cc6,frenchpie.email,available,9.99,,medium,low,10,name.com,,,
 330a4de3-6064-426d-8ee2-eeee8d239012,heartattack.email,available,9.99,,medium,low,12,name.com,,,
 65bb5317-dab3-491c-907f-6b402cfaf003,cleverly.email,available,9.99,,medium,low,8,name.com,,,
 30dba734-830b-4d13-8ede-034d20829479,unhandy.email,available,9.99,,low,low,7,name.com,,,
@@ -636,7 +633,7 @@ a2f13b77-ffb2-4d45-b10e-cdc7e5529c41,gettoknow.email,available,9.99,,high,low,11
 ad57b0b4-e69e-4d80-92be-bba288d24c91,addable.email,available,4.98,40.98,low,low,7,namecheap,,,
 a2b1a037-c05e-444f-a951-5aa17bc24a65,turntup.email,available,9.99,,high,low,8,name.com,,,
 17e1e023-4c75-497d-bea1-7355745527be,until.email,available,,,medium,low,5,,,,
-a92e4b6d-41d4-4376-b842-449c7dca46fb,Barbiepink.email,available,9.99,,high,low,11,name.com,,,
+a92e4b6d-41d4-4376-b842-449c7dca46fb,barbiepink.email,available,9.99,,high,low,11,name.com,,,
 9654c165-7f30-43ad-9291-37f14de0ed5a,resolution.email,available,9.99,,high,low,10,name.com,,,
 da961314-561e-4e3f-b979-9c7447074170,optionally.email,available,9.99,,medium,low,10,name.com,,,
 21c66801-52cf-46e0-b374-7e9048ebf754,amidship.email,available,4.98,40.98,low,low,8,namecheap,,,
@@ -646,13 +643,11 @@ aba4ad3b-984f-4771-9d78-2cc543e54148,givecredit.email,available,9.99,,high,low,1
 a1ea5ed5-56ee-45ef-bcf6-a846a6ebcbc2,aerie.email,available,,,high,low,5,,,,
 e5565f2e-65ef-4ea5-b45c-8f33c8473bc2,acapnic.email,available,4.98,40.98,low,low,7,namecheap,,,
 3d312b22-fda9-4562-b73f-8129ff4bd754,sevenup.email,available,9.99,,high,low,8,name.com,,,
-8f33ce69-d154-4d72-97e6-d31ec9ee9df5,half.email,available,9.99,,high,low,4,name.com,,,
 2e84d973-e06c-4379-a2c7-74f54a86752a,beatup.email,available,9.99,,medium,low,7,name.com,,,
 b3e42409-cc63-4c3d-a05b-6d71a9bc6c4e,said.email,available,9.99,,high,low,4,name.com,,,
 fd3c6e3f-0e56-4883-b0c2-3cd01e9e7b25,model.email,premium,854,854,medium,low,5,namesilo,,,08/09/2026 03:01
 c885766c-d7bd-453a-80e1-3574001258cc,prime.email,available,,,high,high,5,,,,
 d35e2e88-7127-4718-ab68-6ffe245b6fe9,blackmailing.email,available,9.99,,medium,low,12,name.com,,,
-62b302db-8418-411b-8769-40be0b424a74,hat.email,premium,78.54,78.54,high,low,3,namesilo,,,
 6e4679ca-1b65-4339-9f78-739ed7a352c7,gotowork.email,available,9.99,,medium,low,10,name.com,,,
 f23aedcf-6ee1-4f20-a491-68581ebac921,howmany.email,available,9.99,,medium,low,8,name.com,,,
 1558e7ac-f5ab-48a0-98b9-bd141a29289b,aplanatic.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 00:29
@@ -673,7 +668,7 @@ f36cd46b-8dbd-4c7d-bc4c-1e60e5e70d13,cutrate.email,available,4.98,40.98,low,low,
 50f1ce28-ea26-42dd-9287-82eb459aab21,stealaway.email,available,9.99,,low,low,10,name.com,,,
 d4a75c8e-888e-494a-9e31-7d2381818285,getrightwith.email,available,9.99,,medium,low,14,name.com,,,
 922058d8-7ca9-46a6-b4e3-376e05c3ef24,treelike.email,available,4.98,40.98,low,low,8,namecheap,,,06/08/2026 14:01
-565af6b7-d53f-4e0a-8dbe-351d29aed963,Spanishrice.email,available,9.99,,low,low,12,name.com,,,
+565af6b7-d53f-4e0a-8dbe-351d29aed963,spanishrice.email,available,9.99,,low,low,12,name.com,,,
 03943377-d197-438e-9555-577ac5321504,rubbingoil.email,available,9.99,,low,low,11,name.com,,,
 faf791b8-708f-4c46-b2dc-ceb027c8caf1,anticipated.email,available,4.98,40.98,low,low,11,namecheap,,,08/09/2026 14:34
 8aee9892-1ad4-4709-bcb8-60928075e9c6,asleep.email,available,9.99,,high,low,6,name.com,,,
@@ -706,7 +701,7 @@ b02226bc-c733-4b6c-97db-16b82cf8383c,north.email,resell,,,high,low,5,"Sav.com, L
 99c59ebd-1312-433d-911f-7ef20532c811,blueraspberry.email,available,9.99,,high,low,14,name.com,,,
 448a7167-24e1-4bfb-8a29-d8858d2d9939,announced.email,available,9.99,,medium,low,9,name.com,,,
 38be9a1b-e138-421a-815a-8f02b451ed1d,adulterous.email,available,4.98,40.98,low,low,10,namecheap,,,
-bf40eaf1-e471-4bf9-9a63-7c8f609c94df,Netherlands.email,available,,,medium,low,11,,,,
+bf40eaf1-e471-4bf9-9a63-7c8f609c94df,netherlands.email,available,,,medium,low,11,,,,
 32b5d124-7310-43ef-98b5-d024fc2c76b2,australian.email,available,,,high,high,10,,,,
 913dd774-94f6-455c-a51e-2664ccfdc4b4,justification.email,available,9.99,,medium,low,13,name.com,,,
 4cc0d2fa-b5aa-4c5f-9387-8c384bab51e8,climbable.email,available,4.98,40.98,low,low,9,namecheap,,,07/08/2026 00:10
@@ -726,11 +721,10 @@ b84873a5-7a6f-4ff9-91ab-e28bd9a9a316,seedy.email,available,4.98,40.98,low,low,5,
 2c5b2be9-6931-46ce-bcca-980529844c00,aphyllous.email,available,4.98,40.98,low,low,9,namecheap,,,05/08/2026 23:42
 8ee17f43-bf28-4e44-bfb2-18933368c42f,coffin.email,available,9.99,,medium,low,6,name.com,,,
 4f7c8b21-085e-4870-9e64-11d8d8d29391,fiction.email,resell,,,high,low,7,InterNetX GmbH,22/01/2022 14:40,22/01/2027 14:40,
-64530d57-d5cd-44a6-b142-e11d21cdd784,here.email,available,,,high,low,4,,,,
 be357dfa-40a8-4ccf-a0d0-b81690d5bb69,annually.email,available,9.99,,medium,low,8,name.com,,,
 3b2f94f1-ae8f-457f-a803-f01757697eea,wakingup.email,available,9.99,,high,low,9,name.com,,,
 3e22c526-a041-4546-8bdd-5e65b2e70976,roiled.email,available,4.98,40.98,low,low,6,namecheap,,,
-a01eea2e-9260-4956-9349-53e446110039,Iwouldratherdie.email,available,9.99,,medium,low,18,name.com,,,
+a01eea2e-9260-4956-9349-53e446110039,iwouldratherdie.email,available,9.99,,medium,low,18,name.com,,,
 65034f0f-d81d-4803-9d97-7ae3fe45e667,beaklike.email,available,4.98,40.98,low,low,8,namecheap,,,09/08/2026 03:59
 0a8bb8bc-ce1f-4b02-a7d9-643470a8ef15,monetary.email,available,9.99,,medium,low,8,name.com,,,
 7f7473ff-85dd-48ed-b9e3-18db99e91967,rewarding.email,available,9.99,,high,low,9,name.com,,,
@@ -780,7 +774,6 @@ a4c7d6fd-bdbd-432e-9290-bc16b10f2af6,apostate.email,available,4.98,40.98,low,low
 12e36da5-c5e6-4199-89c1-3c4d366d355a,hatred.email,available,9.99,,medium,low,6,name.com,,,
 e3f4bf47-4fff-4fdc-a086-9ef8a7be6eee,acrogenous.email,available,4.98,40.98,low,low,10,namecheap,,,
 611b101e-f738-40e9-9ca9-fbeb436967fd,intheair.email,available,4.98,40.98,low,low,10,namecheap,,,15/09/2026 05:25
-d2e225f9-3921-49f0-820a-101076360dd7,surface.email,available,,,medium,low,7,,,,
 6aef85e6-5041-481e-87e0-6d73d38fe7c2,torrid.email,available,4.98,40.98,low,low,6,namecheap,,,06/08/2026 16:35
 9d5417e1-b551-4ab4-ae66-91e21052b1c7,keepitreal.email,available,9.99,,high,low,12,name.com,,,
 7bf56e9c-a511-4a9b-b70c-d8ce4f009bc5,aculeated.email,available,4.98,40.98,low,low,9,namecheap,,,
@@ -792,17 +785,16 @@ d2e225f9-3921-49f0-820a-101076360dd7,surface.email,available,,,medium,low,7,,,,
 99e8fd88-d5d7-40a9-86ca-e86ed2ac41d2,appareled.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 04:41
 dcb49bcc-3526-4131-8680-db895a0b827f,splithairs.email,available,9.99,,low,low,11,name.com,,,
 fe5a7d4f-c352-4e46-b301-5658e0e615c0,politely.email,available,9.99,,medium,low,8,name.com,,,
-387ccacd-0b4d-48cf-a619-17ea4451a3f2,morgan.email,available,,,medium,low,6,,,,
 75766712-48c9-4cb9-8c24-7f5bf26d8a45,achromic.email,available,4.98,40.98,low,low,8,namecheap,,,
 03d55b7a-53eb-4627-8d47-7b1b50fd05f8,younggirl.email,available,9.99,,low,low,10,name.com,,,
 1a31e809-d59e-4d07-8c3b-1e2fa68e98a1,restructure.email,available,9.99,,high,low,11,name.com,,,
 3b5a51f1-cdec-4b8b-b479-7a441a047411,arguseyed.email,available,4.98,40.98,low,low,10,namecheap,,,06/08/2026 18:38
 af6c9f78-1d35-437e-aaf5-3b01902ace26,wicked.email,resell,,,high,low,6,"GoDaddy.com, LLC",28/03/2014 22:27,28/03/2027 22:27,
-1e9a9e7e-8f9e-4300-96e5-bf5202339880,Internetlike.email,available,9.99,,medium,low,12,name.com,,,
+1e9a9e7e-8f9e-4300-96e5-bf5202339880,internetlike.email,available,9.99,,medium,low,12,name.com,,,
 87119446-151c-4a5a-a879-42564c494894,airheaded.email,available,4.98,40.98,low,low,9,namecheap,,,
 2af93490-e9e7-42df-a901-13624f586a0f,toiletroll.email,available,9.99,,medium,low,11,name.com,,,
 36504dc2-1a95-4ee8-928b-e38b0f57fcc7,pretoria.email,available,9.99,,medium,low,8,name.com,,,
-24705baa-6258-444d-84cf-8dc6933ba3ef,WordofAllah.email,available,9.99,,low,low,13,name.com,,,
+24705baa-6258-444d-84cf-8dc6933ba3ef,wordofallah.email,available,9.99,,low,low,13,name.com,,,
 2bc08ce5-e4ec-4c13-87f9-af08ff4489ee,inaway.email,available,9.99,,medium,low,8,name.com,,,
 c2ff570f-5db9-4ae8-917b-6b34b61755bd,vacation.email,resell,,,high,low,8,"Sav.com, LLC - 43",08/04/2025 15:15,08/04/2027 15:15,
 d9761544-424d-4cab-83c8-ccbe023eb3be,journeyman.email,available,9.99,,medium,low,10,name.com,,,
@@ -812,10 +804,10 @@ d6cb2f78-2e05-48ee-b64c-48f98d0abc62,screwloose.email,available,9.99,,low,low,11
 d1ef508e-c6f5-4088-a28e-4ee28d7f93a3,littleblackdress.email,available,9.99,,high,low,18,name.com,,,
 cbe3fa70-5742-41c0-b305-8bf296cbb0cb,youknowwhat.email,available,9.99,,low,low,13,name.com,,,
 3a303760-0668-496e-b428-38fffd1943dd,analgetic.email,available,4.98,40.98,low,low,9,namecheap,,,
-e31ea0c8-3e46-4734-af62-f8b4b2e50ff0,Frenchmustard.email,available,9.99,,high,low,14,name.com,,,
+e31ea0c8-3e46-4734-af62-f8b4b2e50ff0,frenchmustard.email,available,9.99,,high,low,14,name.com,,,
 d4c30302-ad44-42bf-b824-c49a4730ab1d,respected.email,available,9.99,,high,low,9,name.com,,,
 c62cb7df-545b-44f4-8bb0-e3c72d1d59cd,indefinite.email,available,9.99,,high,low,10,name.com,,,
-09821f67-6a28-4d89-8c40-b3c6945c553f,nourishing.email,available,4.98,40.98,medium,low,10,namecheap,,,15/09/2026 02:55
+09821f67-6a28-4d89-8c40-b3c6945c553f,nourishing.email,available,4.98,40.98,medium,low,10,namecheap,,,19/09/2026 17:50
 ce592d8e-6c0c-4e07-ab71-0a5b50f8446a,ensuant.email,available,4.98,40.98,low,low,7,namecheap,,,
 5a9040f6-370f-44bf-bbfa-e755c83fdceb,afloat.email,available,9.99,,high,low,6,name.com,,,
 313f0b2d-c229-4643-b15b-055bdd564438,gobigorgohome.email,available,9.99,,high,low,17,name.com,,,
@@ -823,7 +815,7 @@ a991da90-0ce3-438b-9249-9b4dcb54b872,enjoy.email,available,,,high,low,5,,,,
 6b44400a-207a-4b48-a0d2-164b5fd2c034,tailless.email,available,4.98,40.98,low,low,8,namecheap,,,05/08/2026 21:33
 de68a1ef-937d-4f64-b0bc-97499e03965d,inexpensive.email,available,9.99,,high,low,11,name.com,,,
 732fd34c-11a8-4f02-8492-169260d0ea38,android.email,available,,,high,medium,7,,,,
-061d856d-1bd8-4ce7-872e-c7d176d23217,Spotify.email,available,,,high,low,7,,,,
+061d856d-1bd8-4ce7-872e-c7d176d23217,spotify.email,available,,,high,low,7,,,,
 417a12c9-c5e8-4d18-afcd-3ebd6f8475b3,caring.email,available,9.99,,high,low,6,name.com,,,
 05e0e6ef-c508-48fd-a390-602940f74d8a,golf.email,premium,1000,,high,medium,4,name.com,,,
 98fb28b4-bb0f-419d-a9a0-d52e32df9aff,agitated.email,available,4.98,40.98,low,low,8,namecheap,,,
@@ -834,7 +826,7 @@ fcda0ab2-3121-4498-b4f2-b3c8d7a6ad71,dieselengine.email,available,9.99,,high,low
 28ec8635-2f4b-4e94-b7c6-e9011c004095,tush.email,available,4.98,40.98,low,low,4,namecheap,,,09/08/2026 11:45
 d67e4b89-c083-49aa-808d-b52f042c48b4,funfair.email,available,9.99,,high,low,7,name.com,,,
 36d523b5-d18a-447a-a9fd-db8779760ca2,eightieth.email,available,4.98,40.98,low,low,9,namecheap,,,
-7f0c47ef-0b36-4369-905d-ff0ecfd3cc63,grandparent.email,available,4.98,40.98,medium,low,11,namecheap,,,15/09/2026 07:07
+7f0c47ef-0b36-4369-905d-ff0ecfd3cc63,grandparent.email,available,7.49,30.99,medium,low,11,namesilo,,,19/09/2026 04:27
 49b56e4e-37b2-46fd-b090-fda45ea7cafb,astounded.email,available,9.99,,medium,low,9,name.com,,,
 565c0204-27f3-4712-891c-2a54f30ddaea,anthropic.email,available,,,medium,low,9,,,,
 2ab001c7-9492-430d-98fb-86543e893f58,planless.email,available,4.98,40.98,low,low,8,namecheap,,,
@@ -845,7 +837,7 @@ d67e4b89-c083-49aa-808d-b52f042c48b4,funfair.email,available,9.99,,high,low,7,na
 29063f06-e1ba-404a-b867-28fd2a15fdd3,scurvy.email,available,4.98,40.98,low,low,6,namecheap,,,
 b9e6142f-f0e1-4a5b-a7c0-86d876ac83d2,whether.email,available,,,high,low,7,,,,
 b646ad4a-e59e-4865-bf15-6b2f527af401,impractical.email,available,9.99,,medium,low,11,name.com,,,
-ec2c0c02-7826-451b-93e9-ae5a3aacc544,Googler.email,available,9.99,,high,low,7,name.com,,,
+ec2c0c02-7826-451b-93e9-ae5a3aacc544,googler.email,available,9.99,,high,low,7,name.com,,,
 a6ca6dc8-8d55-4ff2-ac37-63d41425dc47,hanoi.email,premium,118.8,118.8,medium,low,5,namesilo,,,
 4c2ae7ee-a359-4ee0-bd78-e10944590637,atlast.email,available,9.99,,high,low,7,name.com,,,
 f9b7d0f3-cb8c-4552-88fe-ba17a5c5724f,laborer.email,available,9.99,,medium,low,7,name.com,,,
@@ -874,7 +866,7 @@ dfc58472-a752-4c04-93f3-9719305113f3,abkhasian.email,available,4.98,40.98,low,lo
 5f625b3e-e43c-4290-a5e7-27008e7f1609,flyingsaucer.email,available,9.99,,high,low,13,name.com,,,
 20f3b654-0250-472c-bd95-ca3caf70e7e3,involving.email,available,9.99,,medium,low,9,name.com,,,
 1a189bc1-9b5e-4773-96f6-fce11e7a7864,abducens.email,available,4.98,40.98,low,low,8,namecheap,,,
-8d78da42-7b13-4755-8f4f-feaacfe8b3f8,NewEngland.email,available,9.99,,medium,low,11,name.com,,,
+8d78da42-7b13-4755-8f4f-feaacfe8b3f8,newengland.email,available,9.99,,medium,low,11,name.com,,,
 f89f17fb-35c2-412d-bfa2-82e93a83be36,idolised.email,available,4.98,40.98,low,low,8,namecheap,,,
 f2c10836-f4db-43ff-bf36-60660c8fcb77,downtown.email,available,9.99,39.99,high,low,8,name.com,,,
 5100bf8e-1646-45f0-8c54-c189f4c3278a,exclamation.email,available,9.99,,medium,low,11,name.com,,,
@@ -919,21 +911,21 @@ a7651f11-e25e-4f08-be43-1d97e9579056,passive.email,available,9.99,,high,low,7,na
 aa13f44c-d623-40ba-b81f-f68a8ac8bf9b,wanted.email,available,9.99,,high,low,6,name.com,,,
 3e979dc5-7914-4b46-a850-d4b5ab1df3c6,assignable.email,available,4.98,40.98,low,low,10,namecheap,,,07/08/2026 06:19
 a391ad99-1309-4365-a222-f93605d59b2e,arboreous.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 12:59
-fcbfefcc-3889-42f7-93b0-32f61b8d81ee,USdollar.email,available,9.99,,high,low,9,name.com,,,
+fcbfefcc-3889-42f7-93b0-32f61b8d81ee,usdollar.email,available,9.99,,high,low,9,name.com,,,
 214898e5-a1bb-4815-a0a7-ebb84c4b143d,dateofdeath.email,available,9.99,,medium,low,13,name.com,,,
 7732c1c1-3759-45c4-b630-a28cafba638d,synchronise.email,available,9.99,,high,low,11,name.com,,,
 a8629719-06de-4b9b-97b6-5ee88c091542,endorse.email,available,4.98,40.98,medium,low,7,namecheap,,,08/09/2026 09:45
 adf6f050-2e59-4a89-8075-c899884ca583,executing.email,available,9.99,,medium,low,9,name.com,,,
-f7c9ccee-8bf9-49f6-962f-6cc8d5aa12ae,computing.email,available,4.98,40.98,medium,low,9,namecheap,,,15/09/2026 02:43
+f7c9ccee-8bf9-49f6-962f-6cc8d5aa12ae,computing.email,available,7.49,30.99,medium,low,9,namesilo,,,19/09/2026 12:12
 912edb78-f296-4680-8e7f-dc3f11e78209,progression.email,available,9.99,,medium,low,11,name.com,,,
 336b7274-6974-4658-a662-f7a653ee75ad,olympics.email,available,9.99,,medium,low,8,name.com,,,
-d4172748-056d-4397-bf9b-951c5feb4623,Xmastree.email,available,9.99,,high,low,9,name.com,,,
+d4172748-056d-4397-bf9b-951c5feb4623,xmastree.email,available,9.99,,high,low,9,name.com,,,
 a66aa7c8-abee-40b1-81db-64fe521b8111,autoimmune.email,available,4.98,40.98,low,low,10,namecheap,,,07/08/2026 20:32
 a49b9973-dfb5-499e-ad89-614f48034a59,expecting.email,available,9.99,,high,low,9,name.com,,,
 c318d2b6-d029-4a85-b36d-f94ce9f09ad0,provide.email,available,9.99,,high,low,7,name.com,,,
 41761747-ada5-45cd-b0b7-60f03c4af3ae,godawful.email,available,4.98,40.98,low,low,9,namecheap,,,09/08/2026 05:04
 cb91484a-0625-459b-b699-3bb51603ad2f,discspace.email,available,9.99,,high,low,10,name.com,,,
-647245a8-1c2b-4d91-a199-46894ae824e7,Christalive.email,available,9.99,,high,low,12,name.com,,,
+647245a8-1c2b-4d91-a199-46894ae824e7,christalive.email,available,9.99,,high,low,12,name.com,,,
 a963a71f-d1c9-44bc-a883-382ef7fa164c,mockturtleneck.email,available,9.99,,high,low,15,name.com,,,
 831bb01d-1686-4a6d-8b48-f18263d7eeba,superuser.email,available,9.99,,high,low,9,name.com,,,
 68cb1988-ae1e-4c08-9fda-c58b0a4c3683,thirtysix.email,available,4.98,40.98,low,low,10,namecheap,,,
@@ -944,7 +936,7 @@ f474da20-e91c-4a9e-8000-96cdb3ab48fa,yesterday.email,available,9.99,,high,low,9,
 68f56257-c0bd-4283-812a-603b7bd86359,jump.email,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",14/03/2025 15:15,14/03/2027 15:15,
 a9e60327-c7a7-4282-bd87-5b7db4a749b9,corridor.email,available,9.99,,medium,low,8,name.com,,,
 626fce2f-b785-4278-b9e6-bf08abe8f324,quaternion.email,available,4.98,40.98,low,low,10,namecheap,,,
-0ebd204c-076d-4ae2-b658-b3e7c6f2d054,howwouldIknow.email,available,9.99,,medium,low,16,name.com,,,
+0ebd204c-076d-4ae2-b658-b3e7c6f2d054,howwouldiknow.email,available,9.99,,medium,low,16,name.com,,,
 14dd662d-1585-4a45-872f-4a2a0fb8d34c,howgoesthewar.email,available,9.99,,medium,low,16,name.com,,,
 cc22889a-3105-423a-8fb2-78d1f6f88b21,legs.email,available,9.99,,high,low,4,name.com,,,
 7abbe083-9541-4e71-9882-542b5ef1d0c2,romance.email,available,9.99,,high,low,7,name.com,,,
@@ -973,13 +965,13 @@ caf1ad03-4df9-48e3-ac5d-2dfed88b662b,deceased.email,available,9.99,,medium,low,8
 0a13d0bc-2029-480d-9178-db278b3a4eaf,castellano.email,available,9.99,,medium,low,10,name.com,,,
 64aea731-78c1-414d-8633-8d1d6e347c55,arthurian.email,available,4.98,40.98,low,low,9,namecheap,,,06/08/2026 23:21
 fddbbae1-e4a7-4b48-a14c-9b68e0f73772,customize.email,available,9.99,,high,low,9,name.com,,,
-3b3e72c5-ed7c-4a1f-84a9-cf25f9c1e253,TahoeCity.email,available,4.98,40.98,low,low,10,namecheap,,,08/09/2026 04:34
+3b3e72c5-ed7c-4a1f-84a9-cf25f9c1e253,tahoecity.email,available,4.98,40.98,low,low,10,namecheap,,,08/09/2026 04:34
 e97eb1d5-80d2-44b1-bdd9-dfb5c3b3ef71,nuthin.email,available,9.99,,medium,low,6,name.com,,,
 e0f9a273-d6e0-4a4f-9816-e32459c6b08f,anguillan.email,available,4.98,40.98,low,low,9,namecheap,,,
 276a3ac4-794c-4cee-8007-fe04a19970e7,angolan.email,available,4.98,40.98,low,low,7,namecheap,,,
-e6ceecec-0a2d-4e8f-9aec-4048be957dd2,StPauls.email,available,9.99,,medium,low,8,name.com,,,
+e6ceecec-0a2d-4e8f-9aec-4048be957dd2,stpauls.email,available,9.99,,medium,low,8,name.com,,,
 772cbd79-2cdf-4cf2-b428-7153b6a705e8,basophilic.email,available,4.98,40.98,low,low,10,namecheap,,,08/08/2026 22:53
-3f359aaf-bd96-4dc7-a292-f46af59c7c88,Iloveyou.email,available,,,medium,low,10,,,,
+3f359aaf-bd96-4dc7-a292-f46af59c7c88,iloveyou.email,available,,,medium,low,10,,,,
 90559de2-7daf-4494-a9ec-57f467b57206,streetart.email,available,9.99,,medium,low,10,name.com,,,
 213d32c6-1fa7-4c1a-8544-db94516719d2,allocate.email,available,9.99,,high,low,8,name.com,,,
 ec66480f-2106-43f5-a290-0555c4bd6133,khakis.email,available,9.99,,high,low,6,name.com,,,
@@ -999,3 +991,11 @@ d07863bd-421e-4056-bf48-5c578f8a3d95,diplomat.email,available,9.99,,high,low,8,n
 c0d42a78-7517-459e-a60f-b424a2b268b9,vaccination.email,available,9.99,,medium,low,11,name.com,,,
 c6a1c5a9-110f-48c8-8385-77904023d4ba,draggled.email,available,4.98,40.98,low,low,8,namecheap,,,09/08/2026 07:33
 6c4ace99-3e12-49b9-a9e9-8f449ab2f1a9,aboard.email,available,9.99,,medium,low,6,name.com,,,
+79193690-1ce9-436f-9ec9-f10567b4d86e,ariose.email,available,4.98,40.98,low,low,6,namecheap,,,06/08/2026 19:19
+61387eeb-2c65-457a-a82c-5ce136edec66,toxic.email,available,,,medium,low,5,,,,
+c4dc06de-a294-476c-94bc-45cfa3912088,afflictive.email,available,4.98,40.98,low,low,10,namecheap,,,
+cc4c23e6-f24e-4c44-8196-b2b2e23c0de5,conspiracy.email,available,9.99,,high,low,10,name.com,,,
+feabb37b-4fb2-454b-83c6-cea344ceb78c,nephew.email,available,9.99,,medium,low,6,name.com,,,
+262dcffa-d842-4688-b49a-a8bfc139e359,riverotter.email,available,9.99,,high,low,11,name.com,,,
+bc0c9706-551c-44e1-82b6-5ec23ff36941,microphone.email,available,9.99,,high,low,10,name.com,,,
+113553ba-6fc4-468c-8eec-3192255a1586,visualise.email,available,9.99,,high,low,9,name.com,,,

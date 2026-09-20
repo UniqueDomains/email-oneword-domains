@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .email one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,609 domains · **Median ask:** $9.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/email`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | lxi.email  | available | $4.98     | $40.98        | low            | low    | 3      | namecheap                                           |
-| buy.email  | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 28                                   |
-| hat.email  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| buy.email  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 28                                   |
+| tks.email  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
 | oar.email  | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
 | fan.email  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
-| tks.email  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| aged.email | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                            |
-| liv.email  | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| bill.email | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
-| alar.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
-| card.email | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
 | bury.email | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                            |
-| arum.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
-| cool.email | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| aged.email | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                            |
+| hot.email  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                     |
 | cali.email | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
-| asat.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
-| demo.email | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
+| alar.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
+| liv.email  | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | golf.email | premium   | $1,000    | —             | high           | medium | 4      | name.com                                            |
+| arum.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
+| card.email | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
+| maid.email | premium   | $242      | $242          | high           | low    | 4      | namesilo                                            |
+| asat.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
+| cool.email | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| rest.email | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
 | awol.email | available | $4.98     | $40.98        | low            | low    | 4      | namecheap                                           |
-| goal.email | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| demo.email | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EMAIL One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
